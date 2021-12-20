@@ -26,6 +26,6 @@ public class TekrariSil {
 }
 
 /*Çıktı:
-[a, b, c, b, c]
+[a, b, c, b, a]
 [a, b, c]
 */
